@@ -24,10 +24,9 @@ require (
 	github.com/jakobvarmose/go-qidenticon v0.0.0-20170128000056-5c327fb4e74a
 	github.com/jinzhu/gorm v1.9.14
 	github.com/json-iterator/go v1.1.10
-	github.com/labstack/echo/v4 v4.1.14
+	github.com/labstack/echo/v4 v4.1.16
 	github.com/leandro-lugaresi/hub v1.1.0
 	github.com/lib/pq v1.2.0 // indirect
-	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/ncw/swift v1.0.52
 	github.com/pelletier/go-toml v1.6.0 // indirect
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
@@ -41,7 +40,7 @@ require (
 	github.com/spf13/viper v1.7.0
 	github.com/stretchr/testify v1.6.1
 	go.uber.org/zap v1.15.0
-	golang.org/x/crypto v0.0.0-20200128174031-69ecbb4d6d5d
+	golang.org/x/crypto v0.0.0-20200221231518-2aa609cf4a9d
 	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
